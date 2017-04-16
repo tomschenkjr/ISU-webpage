@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
+	<url>
+		<loc>http://tschenk.public.iastate.edu/</loc>
+		<lastmod>2006-05-20T21:39:45+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1</priority>
+
+	</url>
+	<url>
+		<loc>http://tschenk.public.iastate.edu/egsus/</loc>
+		<changefreq>monthly</changefreq>
+		<priority>1</priority>
+	</url>
+</urlset>
